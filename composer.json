@@ -1,0 +1,13 @@
+{
+	"name": "yii2guide/perfect-code",
+	"type": "guide",
+	"keywords": ["guide","perfect-code"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Yamshikov Vitaliy, WOOPPAY LLC",
+			"email": "theyamshikov@yandex.ru"
+		}
+	],
+	"minimum-stability": "dev",
+}
