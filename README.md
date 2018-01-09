@@ -1,5 +1,5 @@
-[![Latest Stable Version](https://poser.pugx.org/yii2module/perfect-code/v/stable.png)](https://packagist.org/packages/yii2module/perfect-code)
-[![Total Downloads](https://poser.pugx.org/yii2module/perfect-code/downloads.png)](https://packagist.org/packages/yii2module/perfect-code)
+[![Latest Stable Version](https://poser.pugx.org/yii2guide/perfect-code/v/stable.png)](https://packagist.org/packages/yii2guide/perfect-code)
+[![Total Downloads](https://poser.pugx.org/yii2guide/perfect-code/downloads.png)](https://packagist.org/packages/yii2guide/perfect-code)
 
 ## Описание
 
